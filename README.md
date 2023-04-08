@@ -11,16 +11,6 @@ This repository contains a collection of my DevOps projects. Each project has it
 5. [Load Balancer Solution With Apache]
 6. [Load Balancer Solution With Nginx and SSL/TLS]
 
-## Installation
-
-To use any of the projects in this repository, you must first clone the repository to your local machine.
-
-git clone https://github.com/niatoned/[the_project].git
-
-## Usage
-
-Each project folder contains its own README file, which provides instructions on how to set up and run the project.
-
 ## License
 This repository is licensed under the **MIT License**.
 
